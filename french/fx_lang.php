@@ -1,4 +1,4 @@
-<?php
+57566cae6a684b9529a2e07c5e0b8d92a2f380c657566cae6a684b9529a2e07c5e0b8d92a2f380c6<?php
 
 $lang['account_details'] = 'Détails du compte';
 $lang['access_denied'] = 'Demande rejetée. Contactez l\'administrateur du système pour de l\'aide';
@@ -826,23 +826,23 @@ $lang['no_comments_found'] = 'No comments found';
 $lang['preview_file'] = 'Preview File';
 
 // Email templates subjects
-$lang['assigned_bug_subject'] = 'New bug assigned';
-$lang['new_bug_reported_subject'] = 'New bug reported';
-$lang['bug_status_change_subject'] = 'Bug status changed';
-$lang['bug_comment_subject'] = 'New bug comment received';
-$lang['bug_file_uploaded'] = 'New File Uploaded';
-$lang['project_assigned_subject'] = 'Project assigned';
-$lang['project_complete_subject'] = 'Project Completed';
-$lang['project_comment_subject'] = 'New Project comment Received';
-$lang['task_assigned_subject'] = 'New task assigned';
-$lang['task_file_uploaded'] = 'New task file uploaded';
-$lang['project_file_uploaded'] = 'New project file uploaded';
-$lang['payment_received_subject'] = 'Payment Received';
-$lang['new_message_subject'] = 'New message received';
-$lang['welcome_email_subject'] = 'Registration successfull';
-$lang['forgot_password_subject'] = 'Forgot Password';
-$lang['reset_password_subject'] = 'Reset Password';
-$lang['change_email_subject'] = 'Change Email';
+$lang['assigned_bug_subject'] = 'Nouveau bug vous a été attribué';
+$lang['new_bug_reported_subject'] = 'Nouveau bug detecté';
+$lang['bug_status_change_subject'] = 'Etat bug modifié';
+$lang['bug_comment_subject'] = 'Nouvau commentaire sur un bug';
+$lang['bug_file_uploaded'] = 'Nouveau fichier attaché dans le bug rapporté';
+$lang['project_assigned_subject'] = 'Attribution d\'un Projet';
+$lang['project_complete_subject'] = 'Projet terminé';
+$lang['project_comment_subject'] = 'Nouvau commentaire sur un Projet';
+$lang['task_assigned_subject'] = 'Nouvelle tâche attribuée';
+$lang['task_file_uploaded'] = 'Nouveau fichier attaché au tâche du Projet';
+$lang['project_file_uploaded'] = 'Nouveau fichier attaché au Projet';
+$lang['payment_received_subject'] = 'Paiement reçu';
+$lang['new_message_subject'] = 'Nouveau message reçu';
+$lang['welcome_email_subject'] = 'Enregistrement réussi';
+$lang['forgot_password_subject'] = 'Mot de passe oublié';
+$lang['reset_password_subject'] = 'Reinitialisation mot de passe';
+$lang['change_email_subject'] = 'Changement Email';
 
 // 1.6.2
 $lang['company_not_set'] = 'Your company is not set.';
