@@ -1,4 +1,4 @@
-57566cae6a684b9529a2e07c5e0b8d92a2f380c657566cae6a684b9529a2e07c5e0b8d92a2f380c6<?php
+<?php
 
 $lang['account_details'] = 'Détails du compte';
 $lang['access_denied'] = 'Demande rejetée. Contactez l\'administrateur du système pour de l\'aide';
@@ -609,18 +609,18 @@ $lang['company_vat'] = 'TVA';
 $lang['account_username'] = 'Pseudo';
 $lang['account_password'] = 'Mot de passe';
 $lang['port'] = 'Port';
-$lang['hostname'] = 'Hosting';
+$lang['hostname'] = 'Nom hôte';
 $lang['hosting_company'] = 'Entreprise hôte';
 $lang['hidden_username'] = 'Pseudo caché';
 $lang['hidden_password'] = 'Mot de passe caché';
 $lang['additional_fields'] = 'Champs additionnels';
-$lang['unread_messages'] = 'Unread Messages';
-$lang['years'] = ' Years';
-$lang['days'] = ' Days';
-$lang['weeks'] = ' Weeks';
-$lang['months'] = ' Months';
+$lang['unread_messages'] = 'Messages non lus';
+$lang['years'] = ' Années';
+$lang['days'] = ' Jours';
+$lang['weeks'] = ' Semaines';
+$lang['months'] = ' Mois';
 $lang['minutes'] = ' Minutes';
-$lang['hours'] = ' Hours';
+$lang['hours'] = ' Heure(s)';
 
 // Jøran Sørbø's ADDITIONS
 $lang['with_all_the_love'] = 'Developpé avec tous l\amour du monde par';
@@ -796,8 +796,8 @@ $lang['timer_not_allowed'] = 'This timer was started by another staff';
 $lang['response_status'] = 'Response Status';
 $lang['recently_paid_invoices'] = 'Recently paid Invoices';
 $lang['recent_tickets'] = 'Recent Tickets';
-$lang['project_hours'] = 'Project Hours';
-$lang['task_hours'] = 'Tasks hours';
+$lang['project_hours'] = 'Total heures';
+$lang['task_hours'] = 'Total heures';
 $lang['client_create_project'] = 'Clients add Projects';
 $lang['automatic_email_on_recur'] = 'Email on Recur';
 $lang['invoices_due_after'] = 'Invoices due after';
