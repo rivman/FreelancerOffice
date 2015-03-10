@@ -927,7 +927,7 @@ $lang['notify_project_files'] = 'Notification pour fichiers projet';
 $lang['notify_task_assignments'] = 'Notification pour attribution tâche';
 $lang['notify_message_received'] = 'Notify Task assignment pour message reçu';
 $lang['favicon'] = 'Favicon';
-$lang['allow_client_registration'] = 'Permetre enregistrement';
+$lang['allow_client_registration'] = 'Permetrre l\'enregistrement';
 
 
 if(file_exists(APPPATH.'/language/french/custom_language.php')){
