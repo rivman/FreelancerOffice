@@ -198,7 +198,7 @@ $lang['file_deleted'] = 'Fichier supprimé avec succès';
 $lang['found'] = 'Trouvé';
 $lang['freelance'] = 'Freelance';
 $lang['frequency'] = 'Fréquence';
-$lang['forgot_password'] = 'Mot de passe oublié?';
+$lang['forgot_password'] = 'Mot de passe oublié';
 $lang['full_name'] = 'Nom et prénom';
 $lang['get_started'] = 'Commencer';
 $lang['general_settings'] = 'Paramètres généraux';
@@ -624,8 +624,8 @@ $lang['hours'] = ' Heure(s)';
 
 // Jøran Sørbø's ADDITIONS
 $lang['with_all_the_love'] = 'Developpé avec tous l\amour du monde par';
-$lang['remember_password'] = 'Mot de passe retrouvé ?';
-$lang['get_new_password'] = 'Obtenir un nouveau mot de passe';
+$lang['remember_password'] = 'Mot de passe retrouvé';
+$lang['get_new_password'] = 'Nouveau mot de passe';
 $lang['do_not_have_account'] = 'Pas de compte ?';
 $lang['company_placeholder_name'] = 'Nom de l\'entreprise';
 $lang['company_placeholder_email'] = 'contact@mail.com';
